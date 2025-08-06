@@ -16,7 +16,7 @@ This project involves analyzing and visualizing bike sales data using Microsoft 
 
 
 ## 🔗 View Interactive Dashboard
-[Click here to view the dashboard in Google Sheets](https://docs.google.com/spreadsheets/d/1NrPJDtszBqP05_XdocVf1VkHBHa66JC-SHY2IjDDP5Y/view?usp=sharing)
+[Click here to view the datset and the dashboard in Google Sheets](https://docs.google.com/spreadsheets/d/1NrPJDtszBqP05_XdocVf1VkHBHa66JC-SHY2IjDDP5Y/view?usp=sharing)
 
 ## 📁 File Included
 - `Excel Portfolio Project.xlsx`: Contains the full project with raw data, analysis, and dashboard
